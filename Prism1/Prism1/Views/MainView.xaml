@@ -1,0 +1,24 @@
+﻿<Window x:Class="Prism1.Views.MainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:prism="http://prismlibrary.com/"
+        prism:ViewModelLocator.AutoWireViewModel="True"
+        xmlns:local="clr-namespace:Prism1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="900">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        
+        <!--row0-->
+        <Button Content="A" Height="30" Width="60" Grid.Row="0" Margin="28,16,705.6,24.4" Command="{Binding NavigateCommand}" CommandParameter="AView"/>
+        <Button Content="B" Height="30" Width="60" Margin="116,16,617.6,24.4" Grid.Row="0" Command="{Binding NavigateCommand}" CommandParameter="BView"/>
+        
+        <!--row1-->
+        <ContentControl Grid.Row="1" prism:RegionManager.RegionName="ContentRegion"/>
+    </Grid>
+</Window>

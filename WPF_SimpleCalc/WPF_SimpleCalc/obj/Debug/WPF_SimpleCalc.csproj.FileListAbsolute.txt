@@ -1,0 +1,15 @@
+C:\StudyPrism\WPF_SimpleCalc\WPF_SimpleCalc\bin\Debug\WPF_SimpleCalc.exe.config
+C:\StudyPrism\WPF_SimpleCalc\WPF_SimpleCalc\bin\Debug\WPF_SimpleCalc.exe
+C:\StudyPrism\WPF_SimpleCalc\WPF_SimpleCalc\bin\Debug\WPF_SimpleCalc.pdb
+C:\StudyPrism\WPF_SimpleCalc\WPF_SimpleCalc\obj\Debug\WPF_SimpleCalc.csprojAssemblyReference.cache
+C:\StudyPrism\WPF_SimpleCalc\WPF_SimpleCalc\obj\Debug\MainWindow.g.cs
+C:\StudyPrism\WPF_SimpleCalc\WPF_SimpleCalc\obj\Debug\App.g.cs
+C:\StudyPrism\WPF_SimpleCalc\WPF_SimpleCalc\obj\Debug\WPF_SimpleCalc_MarkupCompile.cache
+C:\StudyPrism\WPF_SimpleCalc\WPF_SimpleCalc\obj\Debug\WPF_SimpleCalc_MarkupCompile.lref
+C:\StudyPrism\WPF_SimpleCalc\WPF_SimpleCalc\obj\Debug\MainWindow.baml
+C:\StudyPrism\WPF_SimpleCalc\WPF_SimpleCalc\obj\Debug\WPF_SimpleCalc.g.resources
+C:\StudyPrism\WPF_SimpleCalc\WPF_SimpleCalc\obj\Debug\WPF_SimpleCalc.Properties.Resources.resources
+C:\StudyPrism\WPF_SimpleCalc\WPF_SimpleCalc\obj\Debug\WPF_SimpleCalc.csproj.GenerateResource.cache
+C:\StudyPrism\WPF_SimpleCalc\WPF_SimpleCalc\obj\Debug\WPF_SimpleCalc.csproj.CoreCompileInputs.cache
+C:\StudyPrism\WPF_SimpleCalc\WPF_SimpleCalc\obj\Debug\WPF_SimpleCalc.exe
+C:\StudyPrism\WPF_SimpleCalc\WPF_SimpleCalc\obj\Debug\WPF_SimpleCalc.pdb

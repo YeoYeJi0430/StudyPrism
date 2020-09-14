@@ -1,0 +1,10 @@
+﻿<prism:PrismApplication x:Class="WPF_Prism_SimpleCalc.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF_Prism_SimpleCalc"
+             xmlns:prism="http://prismlibrary.com/"
+             >
+    <Application.Resources>
+         
+    </Application.Resources>
+</prism:PrismApplication>

@@ -1,0 +1,4 @@
+C:\StudyPrism\WPF_SimpleCalc\WPF_Pri_SimpleCalc\obj\Debug\WPF_Pri_SimpleCalc.csprojAssemblyReference.cache
+C:\StudyPrism\WPF_SimpleCalc\WPF_Pri_SimpleCalc\obj\Debug\Views\MainView.g.cs
+C:\StudyPrism\WPF_SimpleCalc\WPF_Pri_SimpleCalc\obj\Debug\WPF_Pri_SimpleCalc_MarkupCompile.cache
+C:\StudyPrism\WPF_SimpleCalc\WPF_Pri_SimpleCalc\obj\Debug\WPF_Pri_SimpleCalc_MarkupCompile.lref
